@@ -1,0 +1,13 @@
+# Site settings
+title: Xinyue.Li
+email: labikyo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  李欣越 Labi Kyo (@labikyo) 的个人博客。
+  Personal blog owned by Li Xinyue, a.k.a Labi Kyo (@labikyo)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://xinyue.li" # the base hostname & protocol for your site
+twitter_username: labikyo
+github_username:  labikyo
+
+# Build settings
+markdown: kramdown
